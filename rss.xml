@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[artemorfosis]]></title>
-        <description><![CDATA[artemorfosis]]></description>
+        <title><![CDATA[artemorfosis - Kubanische Kunst in Zürich]]></title>
+        <description><![CDATA[artemorfosis - Kubanische Kunst in Zürich]]></description>
         <link>https://thegrid.ai/artemorfosis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 12:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 12:30:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/artemorfosis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44263bcd-b513-48e5-a38b-d8f52c550b8e.jpg">]]></description>
             <link>https://thegrid.ai/artemorfosis/a4e34a92-d3aa-4924-9bde-130553e70f4d/index.html</link>
             <guid isPermaLink="false">a4e34a92-d3aa-4924-9bde-130553e70f4d</guid>
-            <pubDate>Fri, 26 Feb 2016 12:21:48 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 12:28:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
