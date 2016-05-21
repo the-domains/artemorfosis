@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'SYMBOLE, MYSTERIEN UND LEBEN'
-datePublished: '2016-05-21T11:35:19.540Z'
-dateModified: '2016-05-21T11:34:47.038Z'
+datePublished: '2016-05-21T11:38:09.190Z'
+dateModified: '2016-05-21T11:35:21.916Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-21-symbole-mysterien-und-leben.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-21-symbole-mysterien-und-leben.md
 url: symbole-mysterien-und-leben/index.html
 _type: Article
 
