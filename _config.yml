@@ -1,9 +1,7 @@
+name: artemorfosis - Kubanische Kunst in Zürich
 favicon: null
-name: artemorfosis
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.3297575
+typography_spectrum: 0.3207125228364021
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.7557741624768823
-  brandStrength: 0.1875
-  rhythmicContrast: 0.3333624240476638
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  lightness: 0.6740922189783305
-typography_spectrum: 0.3207125228364021
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.3297575
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#f7eb00'
+    - '#ffffff'
+    - '#d92026'
+    - '#311e10'
+    - '#d1905e'
+  brandStrength: 0.5625
+  lightness: 0.875
+  saturation: 0.3125
+  rhythmicContrast: 0.25
+purpose: []
