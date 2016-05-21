@@ -6,16 +6,16 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Kubanische Kunst in Zürich
-datePublished: '2016-05-21T13:20:04.620Z'
-dateModified: '2016-05-21T13:20:02.386Z'
+datePublished: '2016-05-21T13:23:19.653Z'
+dateModified: '2016-05-21T13:22:59.127Z'
 title: ArteMorfosis - Galería de Arte Cubano
 author:
   - name: ''
     url: ''
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-05-21-artemorfosis-galeria-de-arte-cubano.md
+starred: true
 _type: Blurb
 
 ---
