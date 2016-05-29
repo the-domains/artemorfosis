@@ -14,7 +14,7 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.3125
-  brandStrength: 0.3264925
+  brandStrength: 0.5918843
   lightness: 0.875
   brandColors:
     - '#F7EB00'
@@ -37,5 +37,5 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.3207125228364021
+typography_spectrum: 0.04337687
 layout_spectrum: 0.91883
